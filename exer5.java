@@ -10,9 +10,8 @@ public class exer5{
             } else {
                 multi *= i;
             }
-
         }
-        System.out.println("Os numeros impares somados: " + soma);
-        System.out.println("Os numeros pares multiplicados: " + multi);
+        System.out.println("Numeros inpar somados: " + soma);
+        System.out.println("Numeros Par multiplicados: " + multi);
     }
 }
