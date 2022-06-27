@@ -8,9 +8,9 @@ public class exer3{
         b = (2*3)-(4*5);
         c = (2+6-3)/(7*9);
         d = (3 % 4) - 8;
-        System.out.println("Resultado do A: "+ a );
-        System.out.println("Resultado do B: "+ b ); 
-        System.out.println("Resultado do C: "+ c ); 
-        System.out.println("Resultado do D: "+ d ); 
+        System.out.println("Conta A: "+ a );
+        System.out.println("Conta B: "+ b ); 
+        System.out.println("Conta C: "+ c ); 
+        System.out.println("Conta D: "+ d ); 
     } 
 }
